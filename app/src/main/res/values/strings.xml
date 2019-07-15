@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SBUZ</string>
+    <string name="title_activity_maps">SBUZ</string>
+    <string name="title_activity_one">one</string>
+    <string name="title_activity_two">two</string>
+    <string name="title_activity_checkforbuses">checkforbuses</string>
+    <string name="title_activity_stop">stop</string>
+</resources>

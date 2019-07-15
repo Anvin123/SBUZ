@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="ll_background_button">#f6ffffff</color>
+    <color name="ll_background_textview">#ffffff</color>
+    <color name="sign">#304ffe</color>
+    <color name="blue1">#304ffe</color>
+    <color name="scroll_view_divider">#d3d6d9</color>
+    <color name="textview">#f9000000</color>
+    <color name="nocolor">#00eceaea</color>
+    <color name="white">#ffffff</color>
+
+    <color name="black">#000000</color>
+    <color name="textview_output">#c3121111</color>
+
+    <color name="cardviewbachground">#e7ebff</color>
+
+
+    <color name="dark1">#edcb0a</color>
+    <color name="light1">#b7ff1744</color>
+    <color name="light2">#31763d</color>
+
+    <color name="dark2">#4a2979ff</color>
+    <color name="white1">#ffffff</color>
+
+    <color name="hotRED">#d50000</color>
+    <color name="grey">#77797C</color>
+</resources>

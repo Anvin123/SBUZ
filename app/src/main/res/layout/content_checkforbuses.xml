@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/paddingleft"
+    android:layout_margin="@dimen/paddingleft"
+    android:orientation="vertical"
+
+    tools:context=".checkforbuses">
+
+
+    <TextView
+        android:padding="10dp"
+        android:layout_gravity="center"
+        android:textSize="@dimen/s21"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Near By Bus" />
+
+    <TextView
+        android:textSize="@dimen/s15"
+        android:textColor="@color/black"
+        android:padding="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bangalore - Pune " />
+
+
+
+    <TextView
+        android:textSize="@dimen/s15"
+        android:textColor="@color/black"
+        android:padding="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Chennai - Bagalore" />
+
+
+    <TextView
+        android:textSize="@dimen/s15"
+        android:textColor="@color/black"
+        android:padding="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kochi -Goa" />
+
+    <TextView
+        android:textSize="@dimen/s15"
+        android:textColor="@color/black"
+        android:padding="10dp"
+        android:id="@+id/MuvThri"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:text="Muvattupuzha  - Thrissur" />
+
+    <TextView
+        android:padding="10dp"
+        android:textSize="@dimen/s15"
+        android:textColor="@color/black"
+        android:id="@+id/ThodMunnar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Thodupuzha - Munnar" />
+
+    <TextView
+        android:padding="10dp"
+        android:textSize="@dimen/s15"
+        android:textColor="@color/black"
+        android:id="@+id/MuvKollam"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Muvattupuzha - Kollam" />
+
+    <TextView
+        android:padding="10dp"
+        android:textSize="@dimen/s15"
+        android:textColor="@color/black"
+        android:id="@+id/AngaKozhikode"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Angamali - Kollam" />
+</LinearLayout>

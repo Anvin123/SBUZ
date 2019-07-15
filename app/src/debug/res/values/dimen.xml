@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+     <dimen name="gst">18dp</dimen>
+    <dimen name="s34">34sp</dimen>
+    <dimen name="s21">21sp</dimen>
+    <dimen name="s15">15sp</dimen>
+    <dimen name="s10">10sp</dimen>
+    <dimen name="s18">18sp</dimen>
+    <dimen name="paddingleft">20dp</dimen>
+
+</resources>
